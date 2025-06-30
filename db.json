@@ -1,0 +1,44 @@
+{
+  "produtos": [
+    {
+      "nome": "Top Premium",
+      "marca": "Asics",
+      "id": "349792"
+    },
+    {
+      "nome": "Tênis Pro",
+      "marca": "Asics",
+      "id": "888897"
+    },
+    {
+      "nome": "Bola Max",
+      "marca": "Fila",
+      "id": "984052"
+    },
+    {
+      "nome": "Faixa Kids",
+      "marca": "Oakley",
+      "id": "769419"
+    },
+    {
+      "nome": "Faixa Pro",
+      "marca": "Asics",
+      "id": "282183"
+    },
+    {
+      "nome": "Regata",
+      "marca": "Oakley",
+      "id": "147724"
+    },
+    {
+      "nome": "Tênis Casual Pro",
+      "marca": "Kappa",
+      "id": "897717"
+    },
+    {
+      "nome": "Camisa Premium",
+      "marca": "Nike",
+      "id": "843209"
+    }
+  ]
+}
